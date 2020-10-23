@@ -1,4 +1,4 @@
-# 💰 PWA Budget Tracker
+# 💸 PWA Budget Tracker
 
 [CLICK HERE FOR LIVE HEROKU APPLICATION]()
 
