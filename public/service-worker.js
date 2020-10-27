@@ -1,12 +1,12 @@
 const FILES_TO_CACHE = [
 "/",
-"/index.html",
-"/assets/icons/icon-192x192.png",
-"/assets/icons/icon-512x512.png",
-"/assets/css/styles.css",
-"/assets/js/offline.js",
-"/assets/js/index.js",
-"/manifest.webmanifest"
+"../index.html",
+"icons/icon-192x192.png",
+"icons/icon-512x512.png",
+"styles.css",
+"js/offline.js",
+"js/index.js",
+"manifest.webmanifest"
 ];
 
 // get local connection from DB
