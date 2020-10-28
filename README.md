@@ -1,7 +1,5 @@
 # 💸 PWA Budget Tracker
 
-[CLICK HERE FOR LIVE HEROKU APPLICATION]()
-
 ## Table of Contents
 
 * [Screenshots](#screenshots)
@@ -48,10 +46,6 @@ Budget tracker that lets the user add expenses and deposits to their budget with
 
  ```
 Run "npm start" to start then navigate to a browser window to localhost:3000
-
-OR
-                                     
-Use the live application via the Heroku link provided above
 
  ```
 ## Demo
