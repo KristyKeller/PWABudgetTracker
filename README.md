@@ -24,11 +24,8 @@
  
 ## Screenshots
 
-![screenshot2](./Assets/Images/)
+![screenshot2](./Assets/Images/screencapture.png)
 
-![screenshot3](./Assets/Images/)
-
-![screenshot4](./Assets/Images/)
 
 ## User Story
 ```
@@ -50,11 +47,16 @@ Budget tracker that lets the user add expenses and deposits to their budget with
  ## Usage
 
  ```
+Run "npm start" to start then navigate to a browser window to localhost:3000
+
+OR
+                                     
+Use the live application via the Heroku link provided above
 
  ```
 ## Demo
 
-![gif]()
+![gif](https://media.giphy.com/media/6fCqVM1FXW2sRQVMWM/giphy.gif)
 
 ## Built With
 
